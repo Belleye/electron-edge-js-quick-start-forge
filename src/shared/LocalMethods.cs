@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
@@ -48,40 +49,51 @@ namespace QuickStart
             }
         }
 
-        // New method to execute SQL Query
-        public async Task<object> ExecuteSqlQuery(dynamic input)
+        // Reverted to return Task<object>
+        public async Task<object> ExecuteSqlQuery(string sqlQuery)
         {
             string connectionString = "Server=ORDW;Database=ORDW;Integrated Security=True;Encrypt=False;";
-            string query = "SELECT * FROM ORDW.public_v2.dim_Site s";
+            if (string.IsNullOrEmpty(sqlQuery))
+            {
+                // Return an error or default value if query is empty
+                 return null; 
+            }
 
-            List<Dictionary<string, object>> results = new List<Dictionary<string, object>>();
+            string jsonResult = null;
 
             try
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     await connection.OpenAsync();
-                    using (SqlCommand command = new SqlCommand(query, connection))
+                    using (SqlCommand command = new SqlCommand(sqlQuery, connection))
                     {
                         using (SqlDataReader reader = await command.ExecuteReaderAsync())
                         {
-                            while (await reader.ReadAsync())
+                            if (await reader.ReadAsync() && reader.HasRows)
                             {
-                                var row = new Dictionary<string, object>();
-                                for (int i = 0; i < reader.FieldCount; i++)
+                                // Assuming the JSON result is in the first column
+                                if (!await reader.IsDBNullAsync(0)) 
                                 {
-                                    row[reader.GetName(i)] = reader.GetValue(i);
+                                     jsonResult = reader.GetString(0);
+                                } else {
+                                    // Handle case where the cell is DBNull
+                                    jsonResult = null; 
                                 }
-                                results.Add(row);
                             }
                         }
                     }
                 }
-                return results;
+                // Return the JSON string wrapped in an object
+                return new { JsonOutput = jsonResult }; 
             }
             catch (Exception ex)
             {
-                // Return exception message to JavaScript
+                // Log the exception details
+                Console.WriteLine($"SQL Error: {ex.Message}");
+                Console.WriteLine($"Stack Trace: {ex.StackTrace}");
+                // Return null on error, JS side needs to handle this - REVERTED to error object
+                // return null; 
                 return new { error = ex.Message, stackTrace = ex.StackTrace };
             }
         }

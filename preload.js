@@ -3,7 +3,9 @@ const {
     contextBridge,
     ipcRenderer
 } = require("electron");
-
+// Try resolving the path explicitly -- REVERTED
+// const vegaEmbedPath = require.resolve('vega-embed');
+// const vegaEmbed = require(vegaEmbedPath);
 
 contextBridge.exposeInMainWorld(
     "api", {
@@ -15,3 +17,13 @@ contextBridge.exposeInMainWorld(
         },
     }
 );
+
+// Expose vegaEmbed to the renderer process -- REVERTED
+/*
+contextBridge.exposeInMainWorld(
+    'vegaEmbedApi',
+    {
+        embed: (element, spec, options) => vegaEmbed(element, spec, options)
+    }
+);
+*/

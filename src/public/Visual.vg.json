@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 600,
+  "height": 300,
+  "padding": {"left": 60, "top": 10, "right": 10, "bottom": 30},
+  "signals": [
+    {"name": "chartHeight", "value": 100},
+    {"name": "chartSpacing", "value": 30}
+  ],
+  "data": [
+    {
+      "name": "raw",
+      "url": "data.json",
+      "transform": [
+        {"type": "formula", "as": "TimeParsed", "expr": "toDate(datum.TimeEnd)"}
+      ]
+    },
+    {
+      "name": "trayClean",
+      "source": "raw",
+      "transform": [
+        {"type": "filter", "expr": "datum.Class === 'Tray Clean'"},
+        {"type": "formula", "as": "Start", "expr": "toDate(datum.TimeStart)"},
+        {"type": "formula", "as": "End", "expr": "toDate(datum.TimeEnd)"}
+      ]
+    },
+    {
+      "name": "trucks",
+      "source": "raw",
+      "transform": [
+        {"type": "aggregate", "groupby": ["Truck"]},
+        {"type": "window", "ops": ["row_number"], "as": ["index"]}
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "time",
+      "domain": {"data": "raw", "field": "TimeParsed"},
+      "range": "width"
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "domain": {"data": "raw", "field": "CarryBack"},
+      "nice": true,
+      "range": [{"signal": "chartHeight"}, 0]
+    }
+  ],
+  "marks": [
+    {
+      "type": "group",
+      "from": {"data": "trucks"},
+      "encode": {
+        "enter": {
+          "y": {"signal": "(datum.index - 1) * (chartHeight + chartSpacing)"},
+          "height": {"signal": "chartHeight"},
+          "width": {"signal": "width"}
+        }
+      },
+      "signals": [{"name": "truckId", "update": "parent.Truck"}],
+      "data": [
+        {
+          "name": "truckData",
+          "source": "raw",
+          "transform": [
+            {
+              "type": "filter",
+              "expr": "datum.Truck === truckId && datum.Class === 'Carry Back'"
+            }
+          ]
+        },
+        {
+          "name": "truckTrayClean",
+          "source": "trayClean",
+          "transform": [{"type": "filter", "expr": "datum.Truck === truckId"}]
+        },
+        {
+          "name": "truckLoadEvents",
+          "source": "raw",
+          "transform": [
+            {
+              "type": "filter",
+              "expr": "datum.Truck === truckId && datum.Class === 'Load'"
+            },
+            {
+              "type": "formula",
+              "as": "LoadTime",
+              "expr": "toDate(datum.TimeStart)"
+            }
+          ]
+        }
+      ],
+      "axes": [
+        {"orient": "left", "scale": "y"},
+        {"orient": "bottom", "scale": "x"}
+      ],
+      "marks": [
+        {
+          "type": "text",
+          "encode": {
+            "enter": {
+              "x": {"value": -50},
+              "y": {"signal": "chartHeight / 2"},
+              "text": {"signal": "truckId"},
+              "align": {"value": "right"},
+              "baseline": {"value": "middle"},
+              "fontSize": {"value": 12},
+              "fill": {"value": "#000"}
+            }
+          }
+        },
+        {
+          "type": "rect",
+          "from": {"data": "truckTrayClean"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "Start"},
+              "x2": {"scale": "x", "field": "End"},
+              "y": {"value": 0},
+              "y2": {"signal": "chartHeight"},
+              "fill": {"value": "green"},
+              "fillOpacity": {"value": 0.2},
+              "tooltip": {"signal": "{'TimeStart': timeFormat(datum.Start, '%Y-%m-%d %H:%M:%S'),'Time Finish': timeFormat(datum.End, '%Y-%m-%d %H:%M:%S') }"
+            }
+            }
+          }
+        },
+        {
+          "type": "line",
+          "from": {"data": "truckData"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "TimeParsed"},
+              "y": {"scale": "y", "field": "CarryBack"},
+              "stroke": {"value": "black"},
+              "strokeWidth": {"value": 2},
+              "tooltip": {"signal": "{ 'Carry Back': datum.CarryBack}"}
+            }
+          }
+        },
+        {
+          "type": "symbol",
+          "from": {"data": "truckLoadEvents"},
+          "encode": {
+            "enter": {
+              "x": {"scale": "x", "field": "LoadTime"},
+              "y": {"signal": "chartHeight / 2"},
+              "shape": {"value": "cross"},
+              "size": {"value": 100},
+              "stroke": {"value": "red"},
+              "strokeWidth": {"value": 2},
+              "fill": {"value": null},
+              "tooltip": {"signal": "{'TimeStart': timeFormat(toDate(datum.TimeStart), '%Y-%m-%d %H:%M:%S'),'LoadUnit':datum.LoadUnit, 'OperatorName': datum.OperatorName,'tLoadWeightSystem': datum.tLoadWeightSystem,'SMSpayload': datum.SMSpayload,'buckets': datum.buckets, 'Carry Back': datum.CarryBack}"}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

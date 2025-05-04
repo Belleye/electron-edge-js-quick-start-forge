@@ -98,11 +98,24 @@
     </table>
     <br/>
 
+    <!-- Added: Vega Visualization Container -->
+    <div class="container">
+        <h3>Data Visualization:</h3>
+        <div id="vegaVisContainer" style="width: 90%; height: 400px; border: 1px solid lightgray;"></div>
+    </div>
+    <br/>
+
     <!-- Added: Placeholder for SQL Query Results -->
     <div class="container">
       <h3>SQL Query Results:</h3>
+      <button id="reloadSqlButton">Reload SQL Data</button>
       <pre id="sqlQueryResults">Loading...</pre>
     </div>
+
+    <!-- Load Vega Libraries -->
+    <script src="src/vendor/vega/vega.min.js"></script>
+    <script src="src/vendor/vega/vega-lite.min.js"></script>
+    <script src="src/vendor/vega/vega-embed.min.js"></script>
 
     <script src="renderer.js"></script>
     <link rel="stylesheet" href="default.css">

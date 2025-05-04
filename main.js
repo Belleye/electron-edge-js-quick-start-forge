@@ -1,6 +1,8 @@
 process.env['ELECTRON_DISABLE_SECURITY_WARNINGS']=true
 const {app, BrowserWindow, ipcMain} = require("electron");
 const runner = require('./app.js')
+const fs = require('fs');
+const path = require('path');
 
 var version = 'core';
 
@@ -60,6 +62,35 @@ app.on('activate', function () {
 
 ipcMain.on("run", (event, args) => {
   runner.run(mainWindow);
+});
+
+// Add listener for the reload SQL message from renderer
+ipcMain.on("runSql", (event, args) => {
+  if (mainWindow) {
+    console.log('Received runSql message, executing SQL query...');
+    runner.executeSqlAndSendResult(mainWindow);
+  } else {
+    console.error('Cannot run SQL query, mainWindow is not defined.');
+  }
+});
+
+// Add listener to load and send Vega spec
+ipcMain.on('getVegaSpec', (event) => {
+  const specPath = path.join(__dirname, 'src', 'public', 'Visual.vg.json');
+  fs.readFile(specPath, 'utf8', (err, data) => {
+    if (err) {
+      console.error('Error reading Vega spec file:', err);
+      event.reply('vegaSpecData', { error: 'Failed to load Vega spec.' });
+      return;
+    }
+    try {
+      const spec = JSON.parse(data);
+      event.reply('vegaSpecData', { spec });
+    } catch (parseErr) {
+      console.error('Error parsing Vega spec JSON:', parseErr);
+      event.reply('vegaSpecData', { error: 'Failed to parse Vega spec JSON.' });
+    }
+  });
 });
 
 // In this file you can include the rest of your app's specific main process

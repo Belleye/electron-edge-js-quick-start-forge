@@ -1,0 +1,6830 @@
+[
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T06:00:06",
+        "LoadUnit": "15H383",
+        "OperatorName": "REITHER CAIN",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 300,
+        "CarryBack": 24,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T06:00:28",
+        "LoadUnit": "15H414",
+        "OperatorName": "ADDISON LEON",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 328,
+        "CarryBack": 7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T06:02:10",
+        "CarryBack": 24
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T06:02:43",
+        "CarryBack": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H528",
+        "TimeStart": "2025-04-29T06:04:03",
+        "LoadUnit": "15H415",
+        "OperatorName": "UNKNOWN",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 366,
+        "CarryBack": -36,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H568",
+        "TimeStart": "2025-04-29T06:06:08",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 293,
+        "SMSpayload": 245,
+        "CarryBack": 47,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H528",
+        "TimeEnd": "2025-04-29T06:06:35",
+        "CarryBack": -36
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H568",
+        "TimeEnd": "2025-04-29T06:09:35",
+        "CarryBack": 47
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H296",
+        "TimeStart": "2025-04-29T06:10:31",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 291,
+        "SMSpayload": 183,
+        "CarryBack": 107,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H296",
+        "TimeEnd": "2025-04-29T06:12:56",
+        "CarryBack": 107
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T06:15:38",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 295,
+        "SMSpayload": 260,
+        "CarryBack": 35,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T06:17:44",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 326,
+        "SMSpayload": 272,
+        "CarryBack": 54,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T06:19:13",
+        "CarryBack": 35
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H530",
+        "TimeStart": "2025-04-29T06:20:14",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 307,
+        "SMSpayload": 280,
+        "CarryBack": 26,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T06:20:40",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 298,
+        "CarryBack": 23,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T06:21:33",
+        "CarryBack": 54
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T06:22:57",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 319,
+        "SMSpayload": 313,
+        "CarryBack": 6,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T06:23:13",
+        "CarryBack": 23
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T06:23:34",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 297,
+        "SMSpayload": 240,
+        "CarryBack": 56,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H530",
+        "TimeEnd": "2025-04-29T06:23:52",
+        "CarryBack": 26
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T06:23:56",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 307,
+        "SMSpayload": 329,
+        "CarryBack": -22,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T06:24:30",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 336,
+        "CarryBack": 2,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H566",
+        "TimeStart": "2025-04-29T06:25:59",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 296,
+        "CarryBack": 15,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T06:26:14",
+        "CarryBack": 56
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T06:26:54",
+        "CarryBack": -22
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T06:27:08",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 308,
+        "SMSpayload": 329,
+        "CarryBack": -20,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T06:27:08",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 293,
+        "SMSpayload": 301,
+        "CarryBack": -7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T06:27:38",
+        "CarryBack": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T06:28:08",
+        "CarryBack": 2
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T06:29:18",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 339,
+        "CarryBack": -23,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H299",
+        "TimeStart": "2025-04-29T06:29:25",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 276,
+        "CarryBack": 59,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T06:29:56",
+        "CarryBack": -7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H566",
+        "TimeEnd": "2025-04-29T06:29:57",
+        "CarryBack": 15
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T06:30:40",
+        "CarryBack": -20
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H299",
+        "TimeEnd": "2025-04-29T06:31:35",
+        "CarryBack": 59
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T06:31:39",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 300,
+        "SMSpayload": 309,
+        "CarryBack": -8,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T06:33:34",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 308,
+        "CarryBack": 16,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H851",
+        "TimeStart": "2025-04-29T06:33:35",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 272,
+        "CarryBack": 45,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T06:33:42",
+        "CarryBack": -23
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T06:33:48",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 365,
+        "CarryBack": -40,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T06:34:41",
+        "CarryBack": -8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H296",
+        "TimeStart": "2025-04-29T06:35:12",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 244,
+        "CarryBack": 67,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T06:35:47",
+        "CarryBack": 16
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T06:36:04",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 321,
+        "CarryBack": -8,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T06:36:53",
+        "CarryBack": -40
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H851",
+        "TimeEnd": "2025-04-29T06:37:11",
+        "CarryBack": 45
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H296",
+        "TimeEnd": "2025-04-29T06:37:20",
+        "CarryBack": 67
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H825",
+        "TimeStart": "2025-04-29T06:38:53",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 302,
+        "CarryBack": 25,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H570",
+        "TimeStart": "2025-04-29T06:39:27",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 299,
+        "SMSpayload": 331,
+        "CarryBack": -31,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T06:40:04",
+        "CarryBack": -8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T06:40:11",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 292,
+        "SMSpayload": 236,
+        "CarryBack": 55,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H528",
+        "TimeStart": "2025-04-29T06:41:38",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 334,
+        "SMSpayload": 397,
+        "CarryBack": -62,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H570",
+        "TimeEnd": "2025-04-29T06:41:41",
+        "CarryBack": -31
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T06:42:34",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 309,
+        "SMSpayload": 324,
+        "CarryBack": -15,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T06:42:36",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 310,
+        "CarryBack": 19,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H825",
+        "TimeEnd": "2025-04-29T06:43:10",
+        "CarryBack": 25
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T06:43:12",
+        "CarryBack": 55
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T06:45:22",
+        "CarryBack": -15
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T06:45:34",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 297,
+        "SMSpayload": 308,
+        "CarryBack": -11,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H528",
+        "TimeEnd": "2025-04-29T06:45:41",
+        "CarryBack": -62
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H529",
+        "TimeStart": "2025-04-29T06:45:42",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 305,
+        "SMSpayload": 270,
+        "CarryBack": 34,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T06:46:17",
+        "CarryBack": 19
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T06:46:38",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 332,
+        "SMSpayload": 379,
+        "CarryBack": -46,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T06:47:44",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 342,
+        "SMSpayload": 299,
+        "CarryBack": 43,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T06:48:02",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 281,
+        "SMSpayload": 244,
+        "CarryBack": 37,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T06:48:24",
+        "CarryBack": -11
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H529",
+        "TimeEnd": "2025-04-29T06:49:26",
+        "CarryBack": 34
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T06:49:58",
+        "CarryBack": -46
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H298",
+        "TimeStart": "2025-04-29T06:50:21",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 165,
+        "CarryBack": 158,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T06:50:45",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 313,
+        "SMSpayload": 340,
+        "CarryBack": -27,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T06:50:49",
+        "CarryBack": 37
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T06:51:19",
+        "CarryBack": 43
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T06:51:48",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 345,
+        "SMSpayload": 325,
+        "CarryBack": 19,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H298",
+        "TimeEnd": "2025-04-29T06:52:46",
+        "CarryBack": 158
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T06:53:11",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 372,
+        "CarryBack": -36,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T06:54:11",
+        "CarryBack": -27
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T06:54:27",
+        "CarryBack": 19
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H724",
+        "TimeStart": "2025-04-29T06:55:55",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 302,
+        "SMSpayload": 292,
+        "CarryBack": 9,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T06:57:07",
+        "CarryBack": -36
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T06:57:47",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 397,
+        "CarryBack": -77,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T06:58:50",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 337,
+        "SMSpayload": 344,
+        "CarryBack": -7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H724",
+        "TimeEnd": "2025-04-29T06:59:19",
+        "CarryBack": 9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T06:59:53",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 350,
+        "SMSpayload": 332,
+        "CarryBack": 18,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T07:01:32",
+        "CarryBack": -7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T07:01:37",
+        "CarryBack": -77
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T07:01:40",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 331,
+        "SMSpayload": 318,
+        "CarryBack": 12,
+        "buckets": 9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H528",
+        "TimeStart": "2025-04-29T07:02:39",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 319,
+        "SMSpayload": 360,
+        "CarryBack": -41,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T07:02:48",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 281,
+        "SMSpayload": 226,
+        "CarryBack": 54,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T07:03:36",
+        "CarryBack": 18
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T07:05:16",
+        "CarryBack": 54
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T07:05:41",
+        "CarryBack": 12
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H528",
+        "TimeEnd": "2025-04-29T07:06:09",
+        "CarryBack": -41
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T07:07:08",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 344,
+        "CarryBack": -29,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T07:07:13",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 359,
+        "CarryBack": -10,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T07:10:25",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 334,
+        "SMSpayload": 299,
+        "CarryBack": 34,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T07:10:46",
+        "CarryBack": -29
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T07:11:20",
+        "CarryBack": -10
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T07:12:27",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 308,
+        "SMSpayload": 283,
+        "CarryBack": 24,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T07:12:46",
+        "CarryBack": 34
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T07:12:57",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 334,
+        "CarryBack": -4,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T07:13:32",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 306,
+        "SMSpayload": 268,
+        "CarryBack": 38,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H579",
+        "TimeStart": "2025-04-29T07:13:36",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 271,
+        "CarryBack": 48,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H569",
+        "TimeStart": "2025-04-29T07:13:39",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 342,
+        "CarryBack": -25,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T07:15:03",
+        "CarryBack": 24
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H569",
+        "TimeEnd": "2025-04-29T07:15:52",
+        "CarryBack": -25
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T07:16:13",
+        "CarryBack": 38
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T07:16:37",
+        "CarryBack": -4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T07:17:21",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 344,
+        "SMSpayload": 270,
+        "CarryBack": 73,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T07:17:26",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 333,
+        "CarryBack": -2,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H572",
+        "TimeStart": "2025-04-29T07:17:36",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 311,
+        "SMSpayload": 246,
+        "CarryBack": 65,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H579",
+        "TimeEnd": "2025-04-29T07:18:06",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T07:18:42",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 342,
+        "SMSpayload": 260,
+        "CarryBack": 81,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H572",
+        "TimeEnd": "2025-04-29T07:19:37",
+        "CarryBack": 65
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T07:20:15",
+        "CarryBack": -2
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T07:20:17",
+        "CarryBack": 73
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T07:20:41",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 225,
+        "CarryBack": 103,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T07:21:08",
+        "CarryBack": 81
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T07:22:00",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 335,
+        "CarryBack": -6,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T07:22:02",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 346,
+        "SMSpayload": 353,
+        "CarryBack": -7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T07:23:17",
+        "CarryBack": 103
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T07:24:34",
+        "CarryBack": -6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H296",
+        "TimeStart": "2025-04-29T07:24:38",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 287,
+        "SMSpayload": 225,
+        "CarryBack": 62,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T07:24:40",
+        "CarryBack": -7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T07:27:00",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 225,
+        "CarryBack": 103,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H296",
+        "TimeEnd": "2025-04-29T07:27:38",
+        "CarryBack": 62
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H568",
+        "TimeStart": "2025-04-29T07:29:23",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 331,
+        "SMSpayload": 317,
+        "CarryBack": 14,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H793",
+        "TimeStart": "2025-04-29T07:29:43",
+        "LoadUnit": "15H299",
+        "OperatorName": "MURPHY TRAVIS",
+        "tLoadWeightSystem": 277,
+        "SMSpayload": 236,
+        "CarryBack": 40,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T07:29:49",
+        "CarryBack": 103
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T07:29:52",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 320,
+        "CarryBack": 10,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T07:31:26",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 334,
+        "SMSpayload": 293,
+        "CarryBack": 40,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H568",
+        "TimeEnd": "2025-04-29T07:32:02",
+        "CarryBack": 14
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H793",
+        "TimeEnd": "2025-04-29T07:32:51",
+        "CarryBack": 40
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T07:32:52",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 303,
+        "SMSpayload": 308,
+        "CarryBack": -4,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T07:32:52",
+        "CarryBack": 10
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T07:34:03",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 347,
+        "SMSpayload": 327,
+        "CarryBack": 20,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T07:34:43",
+        "CarryBack": 40
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T07:35:25",
+        "CarryBack": -4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T07:36:39",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 262,
+        "CarryBack": 56,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T07:36:44",
+        "CarryBack": 20
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H783",
+        "TimeStart": "2025-04-29T07:36:54",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 374,
+        "CarryBack": -53,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T07:39:07",
+        "CarryBack": 56
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T07:39:41",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 284,
+        "CarryBack": 40,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T07:40:10",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 310,
+        "SMSpayload": 263,
+        "CarryBack": 47,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H783",
+        "TimeEnd": "2025-04-29T07:42:25",
+        "CarryBack": -53
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T07:42:42",
+        "CarryBack": 47
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T07:43:18",
+        "CarryBack": 40
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H299",
+        "TimeStart": "2025-04-29T07:44:28",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 329,
+        "CarryBack": -14,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T07:45:13",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 324,
+        "CarryBack": -6,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H299",
+        "TimeEnd": "2025-04-29T07:46:58",
+        "CarryBack": -14
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T07:48:22",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 333,
+        "SMSpayload": 342,
+        "CarryBack": -9,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T07:48:34",
+        "CarryBack": -6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T07:51:13",
+        "CarryBack": -9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T07:51:45",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 218,
+        "CarryBack": 116,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T07:52:31",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 285,
+        "SMSpayload": 333,
+        "CarryBack": -48,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T07:55:01",
+        "CarryBack": -48
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T07:55:05",
+        "CarryBack": 116
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T07:57:09",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 340,
+        "SMSpayload": 311,
+        "CarryBack": 29,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T07:57:31",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 308,
+        "CarryBack": 12,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H297",
+        "TimeStart": "2025-04-29T07:58:05",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 295,
+        "SMSpayload": 299,
+        "CarryBack": -4,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T07:59:39",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 353,
+        "SMSpayload": 267,
+        "CarryBack": 85,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T07:59:46",
+        "CarryBack": 12
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H297",
+        "TimeEnd": "2025-04-29T08:00:21",
+        "CarryBack": -4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T08:00:28",
+        "CarryBack": 29
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T08:00:44",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 333,
+        "SMSpayload": 275,
+        "CarryBack": 58,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T08:02:05",
+        "CarryBack": 85
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T08:02:50",
+        "CarryBack": 58
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T08:03:01",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 366,
+        "CarryBack": -30,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T08:03:45",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 334,
+        "SMSpayload": 272,
+        "CarryBack": 61,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T08:04:15",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 351,
+        "SMSpayload": 284,
+        "CarryBack": 66,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T08:05:28",
+        "CarryBack": -30
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H852",
+        "TimeStart": "2025-04-29T08:06:22",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 262,
+        "CarryBack": 61,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T08:07:07",
+        "CarryBack": 66
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T08:07:18",
+        "CarryBack": 61
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H852",
+        "TimeEnd": "2025-04-29T08:08:07",
+        "CarryBack": 61
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T08:08:48",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 305,
+        "CarryBack": 23,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H572",
+        "TimeStart": "2025-04-29T08:09:01",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 330,
+        "CarryBack": -6,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T08:10:05",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 331,
+        "SMSpayload": 234,
+        "CarryBack": 97,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T08:10:07",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 303,
+        "SMSpayload": 299,
+        "CarryBack": 3,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H572",
+        "TimeEnd": "2025-04-29T08:11:24",
+        "CarryBack": -6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T08:11:24",
+        "CarryBack": 23
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H299",
+        "TimeStart": "2025-04-29T08:12:11",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 347,
+        "SMSpayload": 332,
+        "CarryBack": 15,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T08:12:29",
+        "CarryBack": 3
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T08:12:47",
+        "CarryBack": 97
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H299",
+        "TimeEnd": "2025-04-29T08:14:30",
+        "CarryBack": 15
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T08:14:59",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 319,
+        "CarryBack": 4,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H726",
+        "TimeStart": "2025-04-29T08:15:28",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 345,
+        "CarryBack": 2,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H726",
+        "TimeEnd": "2025-04-29T08:18:18",
+        "CarryBack": 2
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T08:18:27",
+        "CarryBack": 4
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H782",
+        "TimeStart": "2025-04-29T08:18:47",
+        "TimeEnd": "2025-04-29T08:45:33"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T08:19:38",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 299,
+        "SMSpayload": 320,
+        "CarryBack": -21,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T08:20:41",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 331,
+        "SMSpayload": 276,
+        "CarryBack": 55,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T08:22:30",
+        "CarryBack": -21
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T08:23:44",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 369,
+        "SMSpayload": 285,
+        "CarryBack": 84,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T08:24:20",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 332,
+        "CarryBack": -8,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T08:24:20",
+        "CarryBack": 55
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T08:25:59",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 336,
+        "CarryBack": 0,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T08:26:19",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 322,
+        "SMSpayload": 285,
+        "CarryBack": 36,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T08:26:49",
+        "CarryBack": 84
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T08:26:54",
+        "CarryBack": -8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T08:27:50",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 318,
+        "CarryBack": 10,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T08:28:33",
+        "CarryBack": 36
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H297",
+        "TimeStart": "2025-04-29T08:28:59",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 309,
+        "CarryBack": 27,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T08:29:34",
+        "CarryBack": 0
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T08:30:24",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 257,
+        "CarryBack": 64,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T08:30:35",
+        "CarryBack": 10
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T08:31:10",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 276,
+        "CarryBack": 44,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T08:31:39",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 324,
+        "CarryBack": -6,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H297",
+        "TimeEnd": "2025-04-29T08:32:22",
+        "CarryBack": 27
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T08:33:23",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 350,
+        "SMSpayload": 299,
+        "CarryBack": 51,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T08:34:06",
+        "CarryBack": 64
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T08:34:23",
+        "CarryBack": -6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T08:34:25",
+        "CarryBack": 44
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T08:36:42",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 246,
+        "CarryBack": 77,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T08:36:43",
+        "CarryBack": 51
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H572",
+        "TimeStart": "2025-04-29T08:36:59",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 331,
+        "SMSpayload": 255,
+        "CarryBack": 75,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H826",
+        "TimeStart": "2025-04-29T08:38:16",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 327,
+        "SMSpayload": 325,
+        "CarryBack": 1,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T08:40:15",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 327,
+        "SMSpayload": 323,
+        "CarryBack": 3,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T08:40:16",
+        "CarryBack": 77
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H572",
+        "TimeEnd": "2025-04-29T08:40:33",
+        "CarryBack": 75
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H826",
+        "TimeEnd": "2025-04-29T08:41:01",
+        "CarryBack": 1
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T08:41:46",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 326,
+        "SMSpayload": 258,
+        "CarryBack": 68,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T08:42:10",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 344,
+        "SMSpayload": 254,
+        "CarryBack": 90,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H566",
+        "TimeStart": "2025-04-29T08:44:08",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 360,
+        "CarryBack": -42,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T08:44:08",
+        "CarryBack": 3
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T08:44:32",
+        "CarryBack": 68
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H726",
+        "TimeStart": "2025-04-29T08:44:54",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 169,
+        "CarryBack": 160,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T08:44:56",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 308,
+        "SMSpayload": 329,
+        "CarryBack": -20,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T08:45:18",
+        "CarryBack": 90
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H726",
+        "TimeEnd": "2025-04-29T08:47:15",
+        "CarryBack": 160
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H566",
+        "TimeEnd": "2025-04-29T08:47:23",
+        "CarryBack": -42
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T08:48:26",
+        "CarryBack": -20
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H793",
+        "TimeStart": "2025-04-29T08:50:26",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 307,
+        "SMSpayload": 353,
+        "CarryBack": -46,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T08:50:40",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 332,
+        "SMSpayload": 318,
+        "CarryBack": 14,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H793",
+        "TimeEnd": "2025-04-29T08:53:29",
+        "CarryBack": -46
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T08:53:56",
+        "CarryBack": 14
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H852",
+        "TimeStart": "2025-04-29T08:55:29",
+        "TimeEnd": "2025-04-29T09:03:02"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T08:55:53",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 337,
+        "SMSpayload": 261,
+        "CarryBack": 75,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T08:56:05",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 313,
+        "SMSpayload": 306,
+        "CarryBack": 7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T08:58:32",
+        "CarryBack": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T08:58:43",
+        "CarryBack": 75
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T08:59:13",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 275,
+        "CarryBack": 39,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T08:59:44",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 319,
+        "CarryBack": 15,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T09:00:28",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 350,
+        "SMSpayload": 243,
+        "CarryBack": 106,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T09:02:08",
+        "CarryBack": 39
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T09:02:40",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 332,
+        "CarryBack": -7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T09:02:49",
+        "CarryBack": 106
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T09:02:55",
+        "CarryBack": 15
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T09:04:57",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 311,
+        "CarryBack": 28,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T09:05:14",
+        "CarryBack": -7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T09:07:23",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 349,
+        "SMSpayload": 322,
+        "CarryBack": 27,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T09:07:54",
+        "CarryBack": 28
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T09:08:31",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 345,
+        "SMSpayload": 358,
+        "CarryBack": -12,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T09:08:42",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 333,
+        "SMSpayload": 326,
+        "CarryBack": 7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T09:10:07",
+        "CarryBack": 27
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H864",
+        "TimeStart": "2025-04-29T09:10:34",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 337,
+        "CarryBack": -8,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T09:11:20",
+        "CarryBack": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H864",
+        "TimeEnd": "2025-04-29T09:12:54",
+        "CarryBack": -8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T09:13:16",
+        "CarryBack": -12
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T09:13:28",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 303,
+        "SMSpayload": 304,
+        "CarryBack": -1,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T09:13:29",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 327,
+        "SMSpayload": 313,
+        "CarryBack": 13,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H726",
+        "TimeStart": "2025-04-29T09:13:48",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 346,
+        "SMSpayload": 267,
+        "CarryBack": 78,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H726",
+        "TimeEnd": "2025-04-29T09:15:51",
+        "CarryBack": 78
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T09:16:00",
+        "CarryBack": 13
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T09:16:44",
+        "CarryBack": -1
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T09:17:47",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 347,
+        "SMSpayload": 350,
+        "CarryBack": -2,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T09:17:59",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 250,
+        "CarryBack": 88,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T09:19:29",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 349,
+        "SMSpayload": 279,
+        "CarryBack": 70,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T09:20:55",
+        "CarryBack": -2
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T09:21:22",
+        "CarryBack": 88
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T09:21:57",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 424,
+        "CarryBack": -106,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T09:22:12",
+        "CarryBack": 70
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T09:22:30",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 306,
+        "CarryBack": 33,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T09:24:17",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 322,
+        "SMSpayload": 325,
+        "CarryBack": -3,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T09:25:34",
+        "CarryBack": 33
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H566",
+        "TimeStart": "2025-04-29T09:25:54",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 294,
+        "CarryBack": 26,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T09:25:57",
+        "CarryBack": -106
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T09:27:04",
+        "CarryBack": -3
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T09:27:40",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 306,
+        "CarryBack": 17,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T09:27:55",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 350,
+        "SMSpayload": 325,
+        "CarryBack": 24,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H566",
+        "TimeEnd": "2025-04-29T09:28:04",
+        "CarryBack": 26
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T09:31:06",
+        "CarryBack": 17
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T09:31:10",
+        "CarryBack": 24
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T09:31:18",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 370,
+        "CarryBack": -34,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T09:32:44",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 355,
+        "SMSpayload": 329,
+        "CarryBack": 25,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T09:34:00",
+        "CarryBack": -34
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T09:34:27",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 288,
+        "CarryBack": 40,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T09:35:37",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 323,
+        "CarryBack": 0,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T09:36:01",
+        "CarryBack": 25
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T09:36:36",
+        "CarryBack": 40
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H568",
+        "TimeStart": "2025-04-29T09:37:33",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 319,
+        "SMSpayload": 271,
+        "CarryBack": 47,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T09:38:47",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 299,
+        "CarryBack": 18,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H572",
+        "TimeStart": "2025-04-29T09:39:12",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 266,
+        "CarryBack": 59,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T09:39:19",
+        "CarryBack": 0
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H568",
+        "TimeEnd": "2025-04-29T09:39:34",
+        "CarryBack": 47
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H299",
+        "TimeStart": "2025-04-29T09:39:48",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 309,
+        "SMSpayload": 302,
+        "CarryBack": 6,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T09:40:27",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 272,
+        "CarryBack": 52,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T09:41:13",
+        "CarryBack": 18
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H299",
+        "TimeEnd": "2025-04-29T09:41:49",
+        "CarryBack": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T09:42:03",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 304,
+        "SMSpayload": 292,
+        "CarryBack": 12,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T09:43:19",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 296,
+        "SMSpayload": 342,
+        "CarryBack": -46,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H572",
+        "TimeEnd": "2025-04-29T09:43:36",
+        "CarryBack": 59
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T09:44:04",
+        "CarryBack": 52
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T09:44:18",
+        "CarryBack": 12
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T09:46:32",
+        "CarryBack": -46
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T09:47:24",
+        "TimeEnd": "2025-04-29T09:51:18"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T09:47:42",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 342,
+        "SMSpayload": 325,
+        "CarryBack": 16,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T09:48:02",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 301,
+        "SMSpayload": 242,
+        "CarryBack": 58,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T09:49:59",
+        "CarryBack": 58
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T09:50:25",
+        "CarryBack": 16
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T09:50:44",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 290,
+        "CarryBack": 38,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T09:51:14",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 349,
+        "SMSpayload": 393,
+        "CarryBack": -44,
+        "buckets": 5
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T09:51:30",
+        "TimeEnd": "2025-04-29T10:01:44"
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T09:52:45",
+        "CarryBack": 38
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T09:53:50",
+        "CarryBack": -44
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H579",
+        "TimeStart": "2025-04-29T09:55:03",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 257,
+        "CarryBack": 71,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T09:55:08",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 333,
+        "SMSpayload": 296,
+        "CarryBack": 37,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H864",
+        "TimeStart": "2025-04-29T09:55:33",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 360,
+        "CarryBack": -21,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T09:56:21",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 295,
+        "SMSpayload": 358,
+        "CarryBack": -62,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H579",
+        "TimeEnd": "2025-04-29T09:57:26",
+        "CarryBack": 71
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T09:57:39",
+        "TimeEnd": "2025-04-29T10:21:18"
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H864",
+        "TimeEnd": "2025-04-29T09:58:01",
+        "CarryBack": -21
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T09:58:14",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 307,
+        "SMSpayload": 296,
+        "CarryBack": 11,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T09:58:19",
+        "CarryBack": 37
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T09:59:26",
+        "CarryBack": -62
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T10:00:36",
+        "CarryBack": 11
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T10:01:15",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 303,
+        "SMSpayload": 275,
+        "CarryBack": 27,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T10:02:04",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 360,
+        "SMSpayload": 335,
+        "CarryBack": 25,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T10:04:24",
+        "CarryBack": 25
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T10:04:45",
+        "CarryBack": 27
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T10:05:29",
+        "TimeEnd": "2025-04-29T10:07:15"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T10:05:40",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 311,
+        "SMSpayload": 305,
+        "CarryBack": 5,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T10:07:58",
+        "CarryBack": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H570",
+        "TimeStart": "2025-04-29T10:08:47",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 284,
+        "CarryBack": 39,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H572",
+        "TimeStart": "2025-04-29T10:08:48",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 302,
+        "SMSpayload": 276,
+        "CarryBack": 26,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T10:09:03",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 332,
+        "SMSpayload": 310,
+        "CarryBack": 22,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H570",
+        "TimeEnd": "2025-04-29T10:10:52",
+        "CarryBack": 39
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H572",
+        "TimeEnd": "2025-04-29T10:10:58",
+        "CarryBack": 26
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T10:11:34",
+        "CarryBack": 22
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T10:12:24",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 302,
+        "CarryBack": 32,
+        "buckets": 5
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T10:12:49",
+        "TimeEnd": "2025-04-29T10:16:55"
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T10:14:59",
+        "CarryBack": 32
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T10:17:47",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 306,
+        "SMSpayload": 256,
+        "CarryBack": 49,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T10:18:19",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 347,
+        "SMSpayload": 319,
+        "CarryBack": 28,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T10:19:33",
+        "CarryBack": 49
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T10:20:22",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 310,
+        "SMSpayload": 325,
+        "CarryBack": -14,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T10:20:24",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 331,
+        "SMSpayload": 304,
+        "CarryBack": 26,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T10:21:22",
+        "CarryBack": 28
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T10:22:41",
+        "CarryBack": -14
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T10:23:30",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 296,
+        "SMSpayload": 278,
+        "CarryBack": 17,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T10:23:34",
+        "CarryBack": 26
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T10:24:20",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 311,
+        "CarryBack": 37,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T10:25:23",
+        "CarryBack": 17
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H579",
+        "TimeStart": "2025-04-29T10:26:11",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 291,
+        "SMSpayload": 306,
+        "CarryBack": -14,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T10:26:51",
+        "CarryBack": 37
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T10:28:21",
+        "TimeEnd": "2025-04-29T10:28:45"
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H579",
+        "TimeEnd": "2025-04-29T10:28:28",
+        "CarryBack": -14
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T10:29:16",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 310,
+        "SMSpayload": 318,
+        "CarryBack": -7,
+        "buckets": 5
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T10:31:28",
+        "TimeEnd": "2025-04-29T10:34:16"
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T10:31:57",
+        "CarryBack": -7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T10:32:38",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 338,
+        "SMSpayload": 324,
+        "CarryBack": 14,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H569",
+        "TimeStart": "2025-04-29T10:32:59",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 350,
+        "SMSpayload": 336,
+        "CarryBack": 13,
+        "buckets": 9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T10:33:56",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 359,
+        "CarryBack": -44,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T10:35:23",
+        "CarryBack": 14
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T10:37:08",
+        "CarryBack": -44
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H569",
+        "TimeEnd": "2025-04-29T10:38:20",
+        "CarryBack": 13
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T10:39:29",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 296,
+        "CarryBack": 23,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T10:41:11",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 299,
+        "SMSpayload": 261,
+        "CarryBack": 38,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T10:41:45",
+        "CarryBack": 23
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T10:42:23",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 339,
+        "CarryBack": -26,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T10:42:30",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 341,
+        "SMSpayload": 358,
+        "CarryBack": -16,
+        "buckets": 10
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T10:43:20",
+        "CarryBack": 38
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T10:43:37",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 327,
+        "SMSpayload": 316,
+        "CarryBack": 10,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T10:45:08",
+        "CarryBack": -26
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T10:46:04",
+        "CarryBack": 10
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T10:46:42",
+        "CarryBack": -16
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T10:47:04",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 281,
+        "CarryBack": 57,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T10:47:14",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 332,
+        "SMSpayload": 256,
+        "CarryBack": 76,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T10:48:32",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 340,
+        "CarryBack": -15,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T10:49:53",
+        "CarryBack": 57
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T10:50:05",
+        "LoadUnit": "15H415",
+        "OperatorName": "DIHM MITCH",
+        "tLoadWeightSystem": 338,
+        "SMSpayload": 312,
+        "CarryBack": 25,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T10:50:10",
+        "CarryBack": 76
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T10:51:48",
+        "CarryBack": -15
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T10:52:05",
+        "CarryBack": 25
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H864",
+        "TimeStart": "2025-04-29T10:52:33",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 349,
+        "CarryBack": -19,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T10:54:15",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 277,
+        "CarryBack": 43,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T10:56:20",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 352,
+        "SMSpayload": 314,
+        "CarryBack": 38,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H864",
+        "TimeEnd": "2025-04-29T10:56:27",
+        "CarryBack": -19
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T10:57:55",
+        "CarryBack": 43
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T10:58:35",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 346,
+        "SMSpayload": 273,
+        "CarryBack": 72,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T10:59:11",
+        "CarryBack": 38
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T10:59:59",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 351,
+        "SMSpayload": 247,
+        "CarryBack": 103,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H579",
+        "TimeStart": "2025-04-29T11:00:47",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 322,
+        "SMSpayload": 314,
+        "CarryBack": 8,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T11:01:58",
+        "CarryBack": 72
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T11:02:30",
+        "CarryBack": 103
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T11:03:18",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 351,
+        "SMSpayload": 306,
+        "CarryBack": 45,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H579",
+        "TimeEnd": "2025-04-29T11:04:08",
+        "CarryBack": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T11:04:53",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 341,
+        "SMSpayload": 278,
+        "CarryBack": 63,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T11:05:52",
+        "CarryBack": 45
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T11:07:08",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 287,
+        "CarryBack": 27,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T11:07:27",
+        "CarryBack": 63
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T11:07:55",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 344,
+        "SMSpayload": 270,
+        "CarryBack": 73,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T11:08:11",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 337,
+        "SMSpayload": 342,
+        "CarryBack": -5,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T11:08:51",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 346,
+        "SMSpayload": 257,
+        "CarryBack": 89,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T11:09:11",
+        "CarryBack": 27
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T11:11:11",
+        "CarryBack": 73
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T11:11:55",
+        "CarryBack": -5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T11:12:25",
+        "CarryBack": 89
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T11:14:21",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 351,
+        "SMSpayload": 323,
+        "CarryBack": 27,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T11:15:39",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 257,
+        "CarryBack": 82,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T11:16:55",
+        "CarryBack": 27
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T11:18:03",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 333,
+        "SMSpayload": 317,
+        "CarryBack": 15,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T11:18:59",
+        "CarryBack": 82
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T11:20:35",
+        "CarryBack": 15
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T11:24:00",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 290,
+        "SMSpayload": 226,
+        "CarryBack": 64,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T11:26:43",
+        "CarryBack": 64
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T11:27:27",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 303,
+        "CarryBack": 25,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T11:28:47",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 342,
+        "SMSpayload": 263,
+        "CarryBack": 78,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T11:31:10",
+        "CarryBack": 25
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T11:32:02",
+        "CarryBack": 78
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T11:35:28",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 261,
+        "SMSpayload": 367,
+        "CarryBack": -106,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T11:35:53",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 273,
+        "CarryBack": 41,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T11:39:25",
+        "CarryBack": -106
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T11:39:48",
+        "CarryBack": 41
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T11:41:29",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 332,
+        "SMSpayload": 321,
+        "CarryBack": 11,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T11:42:40",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 309,
+        "CarryBack": 3,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T11:45:21",
+        "CarryBack": 11
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T11:45:34",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 341,
+        "SMSpayload": 276,
+        "CarryBack": 64,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T11:46:10",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 277,
+        "SMSpayload": 321,
+        "CarryBack": -44,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T11:46:37",
+        "CarryBack": 3
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T11:47:18",
+        "CarryBack": 64
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T11:47:25",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 362,
+        "CarryBack": -33,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T11:48:34",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 327,
+        "CarryBack": 8,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T11:49:07",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 269,
+        "CarryBack": 48,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T11:49:56",
+        "CarryBack": -44
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T11:50:44",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 300,
+        "SMSpayload": 336,
+        "CarryBack": -35,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T11:50:57",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T11:51:21",
+        "CarryBack": -33
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H565",
+        "TimeStart": "2025-04-29T11:52:05",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 327,
+        "SMSpayload": 305,
+        "CarryBack": 22,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H570",
+        "TimeStart": "2025-04-29T11:52:08",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 271,
+        "CarryBack": 48,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T11:52:17",
+        "CarryBack": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H565",
+        "TimeEnd": "2025-04-29T11:54:03",
+        "CarryBack": 22
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T11:54:25",
+        "CarryBack": -35
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T11:54:27",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 327,
+        "CarryBack": 20,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H530",
+        "TimeStart": "2025-04-29T11:54:34",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 275,
+        "CarryBack": 42,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H570",
+        "TimeEnd": "2025-04-29T11:54:59",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T11:55:10",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 336,
+        "CarryBack": 0,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H569",
+        "TimeStart": "2025-04-29T11:55:39",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 382,
+        "CarryBack": -47,
+        "buckets": 9
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H530",
+        "TimeEnd": "2025-04-29T11:57:28",
+        "CarryBack": 42
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T11:58:22",
+        "CarryBack": 20
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T11:58:51",
+        "CarryBack": 0
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T12:00:09",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 290,
+        "CarryBack": 45,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H569",
+        "TimeEnd": "2025-04-29T12:00:11",
+        "CarryBack": -47
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T12:02:14",
+        "CarryBack": 45
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T12:05:07",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 255,
+        "CarryBack": 75,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T12:05:30",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 261,
+        "CarryBack": 59,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T12:07:29",
+        "CarryBack": 75
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T12:08:45",
+        "CarryBack": 59
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T12:09:37",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 301,
+        "SMSpayload": 263,
+        "CarryBack": 37,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H835",
+        "TimeStart": "2025-04-29T12:09:45",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 323,
+        "CarryBack": -2,
+        "buckets": 9
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T12:13:16",
+        "CarryBack": 37
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T12:14:12",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 276,
+        "SMSpayload": 301,
+        "CarryBack": -25,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H835",
+        "TimeEnd": "2025-04-29T12:15:06",
+        "CarryBack": -2
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T12:17:51",
+        "CarryBack": -25
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H529",
+        "TimeStart": "2025-04-29T12:18:45",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 311,
+        "SMSpayload": 352,
+        "CarryBack": -40,
+        "buckets": 9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H566",
+        "TimeStart": "2025-04-29T12:20:12",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 316,
+        "SMSpayload": 324,
+        "CarryBack": -7,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H529",
+        "TimeEnd": "2025-04-29T12:22:30",
+        "CarryBack": -40
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H566",
+        "TimeEnd": "2025-04-29T12:23:27",
+        "CarryBack": -7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T12:23:39",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 349,
+        "CarryBack": -28,
+        "buckets": 9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T12:24:26",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 270,
+        "CarryBack": 60,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H851",
+        "TimeStart": "2025-04-29T12:26:04",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 227,
+        "CarryBack": 89,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T12:27:46",
+        "CarryBack": -28
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T12:27:50",
+        "CarryBack": 60
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T12:28:46",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 337,
+        "SMSpayload": 268,
+        "CarryBack": 68,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H851",
+        "TimeEnd": "2025-04-29T12:29:26",
+        "CarryBack": 89
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H528",
+        "TimeStart": "2025-04-29T12:31:17",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 306,
+        "SMSpayload": 220,
+        "CarryBack": 86,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T12:32:12",
+        "CarryBack": 68
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T12:33:32",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 282,
+        "CarryBack": 48,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H528",
+        "TimeEnd": "2025-04-29T12:33:45",
+        "CarryBack": 86
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T12:36:48",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T12:38:09",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 301,
+        "SMSpayload": 282,
+        "CarryBack": 18,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T12:40:51",
+        "CarryBack": 18
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H851",
+        "TimeStart": "2025-04-29T12:42:58",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 303,
+        "CarryBack": 16,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H851",
+        "TimeEnd": "2025-04-29T12:46:01",
+        "CarryBack": 16
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T12:47:53",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 335,
+        "CarryBack": -5,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T12:52:26",
+        "CarryBack": -5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H298",
+        "TimeStart": "2025-04-29T12:53:11",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 214,
+        "CarryBack": 100,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H298",
+        "TimeEnd": "2025-04-29T12:56:25",
+        "CarryBack": 100
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H296",
+        "TimeStart": "2025-04-29T12:57:09",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 302,
+        "SMSpayload": 245,
+        "CarryBack": 57,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T13:01:15",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 354,
+        "CarryBack": -25,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H296",
+        "TimeEnd": "2025-04-29T13:01:27",
+        "CarryBack": 57
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T13:01:32",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 278,
+        "CarryBack": 51,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T13:02:10",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 316,
+        "CarryBack": 7,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T13:04:12",
+        "CarryBack": 51
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T13:04:42",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 306,
+        "SMSpayload": 294,
+        "CarryBack": 11,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H851",
+        "TimeStart": "2025-04-29T13:05:10",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 309,
+        "SMSpayload": 263,
+        "CarryBack": 46,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T13:06:08",
+        "CarryBack": -25
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T13:06:59",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 354,
+        "SMSpayload": 262,
+        "CarryBack": 91,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T13:07:27",
+        "CarryBack": 11
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T13:07:33",
+        "CarryBack": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H851",
+        "TimeEnd": "2025-04-29T13:08:01",
+        "CarryBack": 46
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H822",
+        "TimeStart": "2025-04-29T13:08:19",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 316,
+        "SMSpayload": 284,
+        "CarryBack": 31,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T13:08:23",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 275,
+        "SMSpayload": 199,
+        "CarryBack": 76,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T13:09:10",
+        "CarryBack": 91
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T13:09:52",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 298,
+        "SMSpayload": 338,
+        "CarryBack": -39,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T13:10:56",
+        "CarryBack": 76
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T13:12:07",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 284,
+        "SMSpayload": 216,
+        "CarryBack": 67,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T13:12:20",
+        "CarryBack": -39
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H822",
+        "TimeEnd": "2025-04-29T13:13:24",
+        "CarryBack": 31
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H726",
+        "TimeStart": "2025-04-29T13:14:10",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 178,
+        "CarryBack": 136,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T13:14:41",
+        "CarryBack": 67
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H726",
+        "TimeEnd": "2025-04-29T13:17:01",
+        "CarryBack": 136
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H724",
+        "TimeStart": "2025-04-29T13:17:47",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 309,
+        "SMSpayload": 330,
+        "CarryBack": -21,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T13:19:37",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 268,
+        "CarryBack": 80,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T13:20:12",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 275,
+        "CarryBack": 42,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T13:21:59",
+        "CarryBack": 80
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H724",
+        "TimeEnd": "2025-04-29T13:22:37",
+        "CarryBack": -21
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T13:22:59",
+        "CarryBack": 42
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T13:23:12",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 265,
+        "SMSpayload": 200,
+        "CarryBack": 65,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T13:25:31",
+        "CarryBack": 65
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T13:25:52",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 244,
+        "CarryBack": 80,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T13:26:13",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 289,
+        "SMSpayload": 255,
+        "CarryBack": 34,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T13:28:12",
+        "CarryBack": 80
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T13:28:52",
+        "CarryBack": 34
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H793",
+        "TimeStart": "2025-04-29T13:29:01",
+        "TimeEnd": "2025-04-29T13:52:02"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T13:29:38",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 341,
+        "SMSpayload": 220,
+        "CarryBack": 120,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T13:29:58",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 280,
+        "SMSpayload": 169,
+        "CarryBack": 111,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T13:30:55",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 308,
+        "CarryBack": 39,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T13:31:41",
+        "CarryBack": 120
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H864",
+        "TimeStart": "2025-04-29T13:31:47",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 304,
+        "CarryBack": 9,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T13:31:58",
+        "CarryBack": 111
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T13:32:50",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 305,
+        "SMSpayload": 225,
+        "CarryBack": 80,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T13:33:31",
+        "CarryBack": 39
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H299",
+        "TimeStart": "2025-04-29T13:34:23",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 311,
+        "SMSpayload": 245,
+        "CarryBack": 65,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H864",
+        "TimeEnd": "2025-04-29T13:35:39",
+        "CarryBack": 9
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T13:36:01",
+        "CarryBack": 80
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H726",
+        "TimeStart": "2025-04-29T13:36:22",
+        "LoadUnit": "15H213",
+        "OperatorName": "CHAN MICHAEL",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 176,
+        "CarryBack": 142,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H299",
+        "TimeEnd": "2025-04-29T13:37:01",
+        "CarryBack": 65
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H726",
+        "TimeEnd": "2025-04-29T13:38:41",
+        "CarryBack": 142
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T13:40:39",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 322,
+        "SMSpayload": 274,
+        "CarryBack": 48,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T13:42:23",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 332,
+        "SMSpayload": 286,
+        "CarryBack": 46,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T13:43:10",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T13:43:54",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 305,
+        "CarryBack": 43,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T13:46:04",
+        "CarryBack": 46
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T13:46:14",
+        "CarryBack": 43
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T13:46:57",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 259,
+        "CarryBack": 52,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T13:47:15",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 283,
+        "SMSpayload": 229,
+        "CarryBack": 53,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T13:48:39",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 296,
+        "SMSpayload": 310,
+        "CarryBack": -13,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T13:48:50",
+        "CarryBack": 52
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T13:49:10",
+        "CarryBack": 53
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T13:49:25",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 299,
+        "SMSpayload": 244,
+        "CarryBack": 55,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T13:49:33",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 301,
+        "CarryBack": 38,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T13:50:30",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 293,
+        "SMSpayload": 233,
+        "CarryBack": 60,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T13:51:59",
+        "CarryBack": 38
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T13:52:08",
+        "CarryBack": -13
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T13:52:12",
+        "CarryBack": 55
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T13:52:46",
+        "CarryBack": 60
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T13:52:55",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 349,
+        "SMSpayload": 321,
+        "CarryBack": 27,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T13:52:59",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 346,
+        "CarryBack": -32,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T13:53:12",
+        "LoadUnit": "15H414",
+        "OperatorName": "WALLING KRISTOPHER",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 259,
+        "CarryBack": 52,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T13:54:02",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 299,
+        "SMSpayload": 199,
+        "CarryBack": 100,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T13:55:12",
+        "CarryBack": 27
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T13:55:30",
+        "TimeEnd": "2025-04-29T14:07:35"
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T13:55:49",
+        "CarryBack": 52
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T13:55:56",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 303,
+        "CarryBack": 44,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T13:56:00",
+        "CarryBack": 100
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T13:56:35",
+        "CarryBack": -32
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H298",
+        "TimeStart": "2025-04-29T13:57:11",
+        "TimeEnd": "2025-04-29T14:19:35"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T13:57:20",
+        "LoadUnit": "15H384",
+        "OperatorName": "WARD MATT",
+        "tLoadWeightSystem": 281,
+        "SMSpayload": 208,
+        "CarryBack": 72,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T13:58:16",
+        "CarryBack": 44
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T13:59:13",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 343,
+        "SMSpayload": 313,
+        "CarryBack": 30,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T13:59:28",
+        "CarryBack": 72
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H793",
+        "TimeStart": "2025-04-29T14:00:39",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 322,
+        "SMSpayload": 409,
+        "CarryBack": -86,
+        "buckets": 10
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T14:01:58",
+        "CarryBack": 30
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H963",
+        "TimeStart": "2025-04-29T14:03:02",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 289,
+        "CarryBack": 31,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T14:03:45",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 326,
+        "SMSpayload": 271,
+        "CarryBack": 55,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H963",
+        "TimeEnd": "2025-04-29T14:05:18",
+        "CarryBack": 31
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H793",
+        "TimeEnd": "2025-04-29T14:05:36",
+        "CarryBack": -86
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T14:06:27",
+        "CarryBack": 55
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H572",
+        "TimeStart": "2025-04-29T14:07:16",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 210,
+        "CarryBack": 113,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H572",
+        "TimeEnd": "2025-04-29T14:10:15",
+        "CarryBack": 113
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T14:12:29",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 281,
+        "CarryBack": 38,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T14:12:32",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 292,
+        "SMSpayload": 214,
+        "CarryBack": 78,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T14:14:32",
+        "CarryBack": 78
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T14:14:37",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 311,
+        "SMSpayload": 267,
+        "CarryBack": 43,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T14:14:58",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 308,
+        "CarryBack": 30,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T14:15:51",
+        "CarryBack": 38
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T14:16:37",
+        "CarryBack": 43
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T14:16:49",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 228,
+        "CarryBack": 89,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H835",
+        "TimeStart": "2025-04-29T14:16:56",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 305,
+        "CarryBack": 24,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T14:17:12",
+        "CarryBack": 30
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T14:18:43",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 308,
+        "SMSpayload": 271,
+        "CarryBack": 37,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T14:19:38",
+        "CarryBack": 89
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H835",
+        "TimeEnd": "2025-04-29T14:20:17",
+        "CarryBack": 24
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T14:20:43",
+        "CarryBack": 37
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T14:21:54",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 308,
+        "SMSpayload": 256,
+        "CarryBack": 51,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H826",
+        "TimeStart": "2025-04-29T14:22:09",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 403,
+        "CarryBack": -55,
+        "buckets": 11
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T14:24:50",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 280,
+        "CarryBack": 40,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T14:25:17",
+        "CarryBack": 51
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T14:27:00",
+        "CarryBack": 40
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T14:27:34",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 311,
+        "SMSpayload": 221,
+        "CarryBack": 90,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H826",
+        "TimeEnd": "2025-04-29T14:27:42",
+        "CarryBack": -55
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H298",
+        "TimeStart": "2025-04-29T14:28:00",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 299,
+        "SMSpayload": 260,
+        "CarryBack": 39,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H298",
+        "TimeEnd": "2025-04-29T14:29:54",
+        "CarryBack": 39
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T14:30:08",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 334,
+        "SMSpayload": 267,
+        "CarryBack": 67,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T14:30:34",
+        "CarryBack": 90
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T14:33:16",
+        "CarryBack": 67
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H835",
+        "TimeStart": "2025-04-29T14:35:36",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 306,
+        "CarryBack": 7,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T14:35:36",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 347,
+        "SMSpayload": 349,
+        "CarryBack": -1,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T14:39:02",
+        "CarryBack": -1
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H835",
+        "TimeEnd": "2025-04-29T14:39:14",
+        "CarryBack": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T14:39:32",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 289,
+        "SMSpayload": 224,
+        "CarryBack": 64,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H563",
+        "TimeStart": "2025-04-29T14:39:53",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 271,
+        "CarryBack": 52,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H575",
+        "TimeStart": "2025-04-29T14:40:00",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 326,
+        "SMSpayload": 294,
+        "CarryBack": 31,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H864",
+        "TimeStart": "2025-04-29T14:40:46",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 326,
+        "SMSpayload": 344,
+        "CarryBack": -18,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T14:41:52",
+        "CarryBack": 64
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H575",
+        "TimeEnd": "2025-04-29T14:42:07",
+        "CarryBack": 31
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T14:43:09",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 300,
+        "SMSpayload": 225,
+        "CarryBack": 74,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H563",
+        "TimeEnd": "2025-04-29T14:43:41",
+        "CarryBack": 52
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H864",
+        "TimeEnd": "2025-04-29T14:44:13",
+        "CarryBack": -18
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T14:46:15",
+        "CarryBack": 74
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T14:47:31",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 284,
+        "SMSpayload": 224,
+        "CarryBack": 59,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T14:50:39",
+        "CarryBack": 59
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T14:51:55",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 298,
+        "SMSpayload": 232,
+        "CarryBack": 66,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H530",
+        "TimeStart": "2025-04-29T14:54:14",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 342,
+        "SMSpayload": 259,
+        "CarryBack": 82,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T14:54:36",
+        "CarryBack": 66
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H528",
+        "TimeStart": "2025-04-29T14:55:22",
+        "TimeEnd": "2025-04-29T14:57:07"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H297",
+        "TimeStart": "2025-04-29T14:55:28",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 254,
+        "CarryBack": 71,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H530",
+        "TimeEnd": "2025-04-29T14:57:30",
+        "CarryBack": 82
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H297",
+        "TimeEnd": "2025-04-29T14:59:27",
+        "CarryBack": 71
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H296",
+        "TimeStart": "2025-04-29T15:00:03",
+        "TimeEnd": "2025-04-29T15:19:00"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T15:03:28",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 300,
+        "SMSpayload": 256,
+        "CarryBack": 44,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H298",
+        "TimeStart": "2025-04-29T15:03:30",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 280,
+        "CarryBack": 37,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T15:05:52",
+        "CarryBack": 44
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H298",
+        "TimeEnd": "2025-04-29T15:05:52",
+        "CarryBack": 37
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T15:07:47",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 220,
+        "CarryBack": 95,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H528",
+        "TimeStart": "2025-04-29T15:09:49",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 335,
+        "CarryBack": -19,
+        "buckets": 5
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H570",
+        "TimeStart": "2025-04-29T15:10:31",
+        "TimeEnd": "2025-04-29T15:28:15"
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T15:10:36",
+        "CarryBack": 95
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H528",
+        "TimeEnd": "2025-04-29T15:11:51",
+        "CarryBack": -19
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H571",
+        "TimeStart": "2025-04-29T15:12:28",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 293,
+        "SMSpayload": 244,
+        "CarryBack": 49,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H571",
+        "TimeEnd": "2025-04-29T15:15:08",
+        "CarryBack": 49
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T15:15:32",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 321,
+        "SMSpayload": 369,
+        "CarryBack": -47,
+        "buckets": 9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H826",
+        "TimeStart": "2025-04-29T15:18:44",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 277,
+        "CarryBack": 38,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H826",
+        "TimeEnd": "2025-04-29T15:20:34",
+        "CarryBack": 38
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T15:20:43",
+        "CarryBack": -47
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H297",
+        "TimeStart": "2025-04-29T15:22:14",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 341,
+        "SMSpayload": 292,
+        "CarryBack": 48,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H852",
+        "TimeStart": "2025-04-29T15:25:15",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 390,
+        "CarryBack": -51,
+        "buckets": 9
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H297",
+        "TimeEnd": "2025-04-29T15:26:16",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H296",
+        "TimeStart": "2025-04-29T15:28:34",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 303,
+        "SMSpayload": 290,
+        "CarryBack": 12,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H852",
+        "TimeEnd": "2025-04-29T15:29:43",
+        "CarryBack": -51
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H725",
+        "TimeStart": "2025-04-29T15:30:32",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 353,
+        "SMSpayload": 421,
+        "CarryBack": -68,
+        "buckets": 9
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H296",
+        "TimeEnd": "2025-04-29T15:30:48",
+        "CarryBack": 12
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T15:33:00",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 343,
+        "SMSpayload": 301,
+        "CarryBack": 42,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H725",
+        "TimeEnd": "2025-04-29T15:35:19",
+        "CarryBack": -68
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T15:35:21",
+        "CarryBack": 42
+    },
+    {
+        "Class": "Tray Clean",
+        "Truck": "06H822",
+        "TimeStart": "2025-04-29T15:35:48",
+        "TimeEnd": "2025-04-29T15:42:27"
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H530",
+        "TimeStart": "2025-04-29T15:39:36",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 268,
+        "CarryBack": 56,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H528",
+        "TimeStart": "2025-04-29T15:40:03",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 343,
+        "SMSpayload": 357,
+        "CarryBack": -14,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H530",
+        "TimeEnd": "2025-04-29T15:41:36",
+        "CarryBack": 56
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T15:41:53",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 219,
+        "CarryBack": 94,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T15:42:39",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 367,
+        "SMSpayload": 385,
+        "CarryBack": -18,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T15:44:00",
+        "CarryBack": 94
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H528",
+        "TimeEnd": "2025-04-29T15:44:12",
+        "CarryBack": -14
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T15:46:42",
+        "CarryBack": -18
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T15:46:57",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 341,
+        "SMSpayload": 251,
+        "CarryBack": 89,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T15:47:16",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 309,
+        "SMSpayload": 251,
+        "CarryBack": 57,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H297",
+        "TimeStart": "2025-04-29T15:48:43",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 281,
+        "CarryBack": 34,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H724",
+        "TimeStart": "2025-04-29T15:48:49",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 337,
+        "CarryBack": -8,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T15:48:50",
+        "CarryBack": 89
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H826",
+        "TimeStart": "2025-04-29T15:49:22",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 333,
+        "SMSpayload": 342,
+        "CarryBack": -8,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T15:49:44",
+        "CarryBack": 57
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H297",
+        "TimeEnd": "2025-04-29T15:50:45",
+        "CarryBack": 34
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T15:52:09",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 296,
+        "CarryBack": 16,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H724",
+        "TimeEnd": "2025-04-29T15:52:39",
+        "CarryBack": -8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H826",
+        "TimeEnd": "2025-04-29T15:53:23",
+        "CarryBack": -8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H330",
+        "TimeStart": "2025-04-29T15:54:10",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 366,
+        "CarryBack": -29,
+        "buckets": 9
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T15:55:41",
+        "CarryBack": 16
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H299",
+        "TimeStart": "2025-04-29T15:55:50",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 294,
+        "SMSpayload": 306,
+        "CarryBack": -12,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H299",
+        "TimeEnd": "2025-04-29T15:57:58",
+        "CarryBack": -12
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H330",
+        "TimeEnd": "2025-04-29T15:58:38",
+        "CarryBack": -29
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H202",
+        "TimeStart": "2025-04-29T16:02:08",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 305,
+        "SMSpayload": 316,
+        "CarryBack": -11,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T16:04:03",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 232,
+        "CarryBack": 90,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T16:04:19",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 300,
+        "SMSpayload": 263,
+        "CarryBack": 37,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H202",
+        "TimeEnd": "2025-04-29T16:04:43",
+        "CarryBack": -11
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T16:05:58",
+        "CarryBack": 90
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T16:06:29",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 319,
+        "SMSpayload": 252,
+        "CarryBack": 66,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T16:07:28",
+        "CarryBack": 37
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H792",
+        "TimeStart": "2025-04-29T16:08:10",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 293,
+        "SMSpayload": 244,
+        "CarryBack": 49,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T16:09:32",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 363,
+        "CarryBack": -24,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T16:09:36",
+        "CarryBack": 66
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H724",
+        "TimeStart": "2025-04-29T16:10:34",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 326,
+        "SMSpayload": 333,
+        "CarryBack": -6,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H792",
+        "TimeEnd": "2025-04-29T16:11:22",
+        "CarryBack": 49
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H825",
+        "TimeStart": "2025-04-29T16:11:55",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 294,
+        "SMSpayload": 168,
+        "CarryBack": 125,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T16:12:17",
+        "CarryBack": -24
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H825",
+        "TimeEnd": "2025-04-29T16:13:58",
+        "CarryBack": 125
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H724",
+        "TimeEnd": "2025-04-29T16:14:05",
+        "CarryBack": -6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T16:14:08",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 338,
+        "SMSpayload": 302,
+        "CarryBack": 35,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T16:16:25",
+        "CarryBack": 35
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H297",
+        "TimeStart": "2025-04-29T16:17:56",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 330,
+        "CarryBack": 0,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T16:19:12",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 284,
+        "CarryBack": 45,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H297",
+        "TimeEnd": "2025-04-29T16:21:46",
+        "CarryBack": 0
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T16:22:07",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 296,
+        "SMSpayload": 212,
+        "CarryBack": 84,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H852",
+        "TimeStart": "2025-04-29T16:22:31",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 338,
+        "CarryBack": -14,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T16:22:39",
+        "CarryBack": 45
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T16:23:25",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 334,
+        "SMSpayload": 331,
+        "CarryBack": 2,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T16:24:57",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 295,
+        "CarryBack": 19,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T16:25:25",
+        "CarryBack": 84
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T16:26:17",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 291,
+        "SMSpayload": 213,
+        "CarryBack": 77,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H852",
+        "TimeEnd": "2025-04-29T16:26:32",
+        "CarryBack": -14
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T16:27:09",
+        "CarryBack": 2
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T16:27:14",
+        "CarryBack": 19
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T16:29:25",
+        "CarryBack": 77
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H575",
+        "TimeStart": "2025-04-29T16:29:53",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 342,
+        "SMSpayload": 341,
+        "CarryBack": 0,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H724",
+        "TimeStart": "2025-04-29T16:30:15",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 299,
+        "CarryBack": 13,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H724",
+        "TimeEnd": "2025-04-29T16:33:17",
+        "CarryBack": 13
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T16:33:38",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 308,
+        "SMSpayload": 310,
+        "CarryBack": -1,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H575",
+        "TimeEnd": "2025-04-29T16:33:46",
+        "CarryBack": 0
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H825",
+        "TimeStart": "2025-04-29T16:34:05",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 351,
+        "SMSpayload": 284,
+        "CarryBack": 66,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T16:36:09",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 303,
+        "CarryBack": 13,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T16:37:03",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 283,
+        "CarryBack": 47,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T16:37:23",
+        "CarryBack": -1
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T16:38:11",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 337,
+        "SMSpayload": 195,
+        "CarryBack": 142,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H825",
+        "TimeEnd": "2025-04-29T16:38:16",
+        "CarryBack": 66
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H299",
+        "TimeStart": "2025-04-29T16:38:39",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 330,
+        "SMSpayload": 305,
+        "CarryBack": 24,
+        "buckets": 7
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T16:39:16",
+        "CarryBack": 13
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T16:39:51",
+        "CarryBack": 47
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T16:41:29",
+        "CarryBack": 142
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H299",
+        "TimeEnd": "2025-04-29T16:42:21",
+        "CarryBack": 24
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T16:42:23",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 332,
+        "CarryBack": 15,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H568",
+        "TimeStart": "2025-04-29T16:43:05",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 324,
+        "CarryBack": 0,
+        "buckets": 8
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T16:43:30",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 345,
+        "SMSpayload": 264,
+        "CarryBack": 80,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T16:45:38",
+        "CarryBack": 15
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T16:46:58",
+        "CarryBack": 80
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H568",
+        "TimeEnd": "2025-04-29T16:47:16",
+        "CarryBack": 0
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H328",
+        "TimeStart": "2025-04-29T16:47:24",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 340,
+        "SMSpayload": 263,
+        "CarryBack": 76,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T16:47:49",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 326,
+        "SMSpayload": 325,
+        "CarryBack": 0,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T16:49:31",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 306,
+        "SMSpayload": 249,
+        "CarryBack": 56,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T16:50:49",
+        "CarryBack": 0
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H328",
+        "TimeEnd": "2025-04-29T16:50:58",
+        "CarryBack": 76
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T16:52:46",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 356,
+        "SMSpayload": 279,
+        "CarryBack": 77,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T16:52:55",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 316,
+        "SMSpayload": 274,
+        "CarryBack": 41,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T16:53:01",
+        "CarryBack": 56
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H329",
+        "TimeStart": "2025-04-29T16:54:49",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 318,
+        "SMSpayload": 213,
+        "CarryBack": 104,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T16:55:29",
+        "CarryBack": 41
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T16:56:26",
+        "CarryBack": 77
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H329",
+        "TimeEnd": "2025-04-29T16:57:50",
+        "CarryBack": 104
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H569",
+        "TimeStart": "2025-04-29T16:58:32",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 311,
+        "SMSpayload": 277,
+        "CarryBack": 33,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T16:59:50",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 258,
+        "CarryBack": 69,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T17:00:31",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 341,
+        "SMSpayload": 334,
+        "CarryBack": 6,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H569",
+        "TimeEnd": "2025-04-29T17:01:31",
+        "CarryBack": 33
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H726",
+        "TimeStart": "2025-04-29T17:03:04",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 324,
+        "SMSpayload": 349,
+        "CarryBack": -25,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T17:03:43",
+        "CarryBack": 69
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T17:03:44",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 338,
+        "SMSpayload": 318,
+        "CarryBack": 20,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T17:03:56",
+        "CarryBack": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H529",
+        "TimeStart": "2025-04-29T17:05:23",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 328,
+        "SMSpayload": 268,
+        "CarryBack": 60,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T17:06:38",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 305,
+        "SMSpayload": 186,
+        "CarryBack": 118,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H726",
+        "TimeEnd": "2025-04-29T17:06:43",
+        "CarryBack": -25
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H791",
+        "TimeStart": "2025-04-29T17:07:27",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 375,
+        "CarryBack": -59,
+        "buckets": 8
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T17:07:44",
+        "CarryBack": 20
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H529",
+        "TimeEnd": "2025-04-29T17:08:54",
+        "CarryBack": 60
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T17:08:59",
+        "CarryBack": 118
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H794",
+        "TimeStart": "2025-04-29T17:10:18",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 307,
+        "CarryBack": 41,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T17:10:31",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 331,
+        "SMSpayload": 329,
+        "CarryBack": 1,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T17:10:39",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 258,
+        "SMSpayload": 210,
+        "CarryBack": 48,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H791",
+        "TimeEnd": "2025-04-29T17:10:48",
+        "CarryBack": -59
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H794",
+        "TimeEnd": "2025-04-29T17:13:07",
+        "CarryBack": 41
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T17:13:50",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T17:13:53",
+        "CarryBack": 1
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H825",
+        "TimeStart": "2025-04-29T17:14:03",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 306,
+        "SMSpayload": 232,
+        "CarryBack": 73,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T17:14:44",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 339,
+        "SMSpayload": 231,
+        "CarryBack": 108,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H825",
+        "TimeEnd": "2025-04-29T17:17:05",
+        "CarryBack": 73
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T17:17:08",
+        "CarryBack": 108
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T17:17:21",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 317,
+        "SMSpayload": 258,
+        "CarryBack": 58,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H817",
+        "TimeStart": "2025-04-29T17:18:41",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 348,
+        "SMSpayload": 332,
+        "CarryBack": 15,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H570",
+        "TimeStart": "2025-04-29T17:19:47",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 312,
+        "SMSpayload": 264,
+        "CarryBack": 48,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H864",
+        "TimeStart": "2025-04-29T17:19:55",
+        "LoadUnit": "15H213",
+        "OperatorName": "ALLEN MICHAEL",
+        "tLoadWeightSystem": 320,
+        "SMSpayload": 385,
+        "CarryBack": -64,
+        "buckets": 9
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H538",
+        "TimeStart": "2025-04-29T17:19:58",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 335,
+        "SMSpayload": 269,
+        "CarryBack": 65,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T17:20:27",
+        "CarryBack": 58
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H817",
+        "TimeEnd": "2025-04-29T17:21:59",
+        "CarryBack": 15
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H538",
+        "TimeEnd": "2025-04-29T17:22:19",
+        "CarryBack": 65
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H570",
+        "TimeEnd": "2025-04-29T17:23:12",
+        "CarryBack": 48
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T17:23:13",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 243,
+        "CarryBack": 70,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H864",
+        "TimeEnd": "2025-04-29T17:23:54",
+        "CarryBack": -64
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H539",
+        "TimeStart": "2025-04-29T17:24:30",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 336,
+        "SMSpayload": 331,
+        "CarryBack": 4,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H821",
+        "TimeStart": "2025-04-29T17:25:27",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 314,
+        "SMSpayload": 289,
+        "CarryBack": 24,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T17:26:27",
+        "CarryBack": 70
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H557",
+        "TimeStart": "2025-04-29T17:26:56",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 316,
+        "SMSpayload": 289,
+        "CarryBack": 27,
+        "buckets": 7
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H531",
+        "TimeStart": "2025-04-29T17:27:40",
+        "LoadUnit": "15H414",
+        "OperatorName": "BORRETT NATHAN",
+        "tLoadWeightSystem": 309,
+        "SMSpayload": 321,
+        "CarryBack": -12,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H821",
+        "TimeEnd": "2025-04-29T17:27:44",
+        "CarryBack": 24
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H539",
+        "TimeEnd": "2025-04-29T17:28:33",
+        "CarryBack": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H818",
+        "TimeStart": "2025-04-29T17:30:29",
+        "LoadUnit": "15H383",
+        "OperatorName": "TURNER JHON",
+        "tLoadWeightSystem": 322,
+        "SMSpayload": 302,
+        "CarryBack": 19,
+        "buckets": 6
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H532",
+        "TimeStart": "2025-04-29T17:30:29",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 325,
+        "SMSpayload": 256,
+        "CarryBack": 68,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H557",
+        "TimeEnd": "2025-04-29T17:30:29",
+        "CarryBack": 27
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H531",
+        "TimeEnd": "2025-04-29T17:30:37",
+        "CarryBack": -12
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H529",
+        "TimeStart": "2025-04-29T17:33:04",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 323,
+        "SMSpayload": 278,
+        "CarryBack": 44,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H532",
+        "TimeEnd": "2025-04-29T17:33:13",
+        "CarryBack": 68
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H818",
+        "TimeEnd": "2025-04-29T17:33:55",
+        "CarryBack": 19
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H529",
+        "TimeEnd": "2025-04-29T17:35:17",
+        "CarryBack": 44
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H567",
+        "TimeStart": "2025-04-29T17:36:57",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 299,
+        "SMSpayload": 240,
+        "CarryBack": 58,
+        "buckets": 5
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H298",
+        "TimeStart": "2025-04-29T17:36:58",
+        "LoadUnit": "15H416",
+        "OperatorName": "MCRAE DANNY",
+        "tLoadWeightSystem": 329,
+        "SMSpayload": 269,
+        "CarryBack": 59,
+        "buckets": 4
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H298",
+        "TimeEnd": "2025-04-29T17:38:58",
+        "CarryBack": 59
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H567",
+        "TimeEnd": "2025-04-29T17:40:20",
+        "CarryBack": 58
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H577",
+        "TimeStart": "2025-04-29T17:42:26",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 315,
+        "SMSpayload": 190,
+        "CarryBack": 124,
+        "buckets": 4
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H570",
+        "TimeStart": "2025-04-29T17:43:39",
+        "LoadUnit": "15H299",
+        "OperatorName": "KOWALSKI LEON",
+        "tLoadWeightSystem": 316,
+        "SMSpayload": 262,
+        "CarryBack": 53,
+        "buckets": 6
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H577",
+        "TimeEnd": "2025-04-29T17:45:02",
+        "CarryBack": 124
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H570",
+        "TimeEnd": "2025-04-29T17:47:25",
+        "CarryBack": 53
+    },
+    {
+        "Class": "Load",
+        "Truck": "06H574",
+        "TimeStart": "2025-04-29T17:48:10",
+        "LoadUnit": "15H384",
+        "OperatorName": "LONIE GRAHAM",
+        "tLoadWeightSystem": 308,
+        "SMSpayload": 268,
+        "CarryBack": 40,
+        "buckets": 5
+    },
+    {
+        "Class": "Carry Back",
+        "Truck": "06H574",
+        "TimeEnd": "2025-04-29T17:51:04",
+        "CarryBack": 40
+    }
+]
