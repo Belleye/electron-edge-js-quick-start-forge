@@ -6,3 +6,5 @@ obj/
 /src/.idea
 net8.0
 out/
+electron-bin/
+gyp-bin/
