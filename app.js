@@ -57,6 +57,12 @@ try {
     methodName: "ThrowException",
   });
 
+  var executeSqlQuery = edge.func({
+    assemblyFile: baseDll,
+    typeName: localTypeName, 
+    methodName: "ExecuteSqlQuery",
+  });
+
   var getInlinePerson = edge.func({
     source: function () {
       /* 
@@ -149,4 +155,22 @@ exports.run = function (window) {
       );
     }
   );
+
+  executeSqlQuery("", function (error, result) {
+    if (error) {
+      log.error("SQL Query Error (edge-js):", error);
+      window.webContents.send("fromMain", "sqlQueryResults", { error: error.toString() });
+      return;
+    }
+    // Check if C# returned an error object
+    if (result && result.error) {
+      log.error("SQL Query Error (C#):", result.error);
+      window.webContents.send("fromMain", "sqlQueryResults", { error: result.error, stackTrace: result.stackTrace });
+    }
+    else {
+      log.info("SQL Query Result:", result);
+      window.webContents.send("fromMain", "sqlQueryResults", result);
+    }
+  });
+
 };

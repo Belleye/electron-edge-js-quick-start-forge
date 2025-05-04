@@ -1,5 +1,6 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
@@ -44,6 +45,44 @@ namespace QuickStart
             finally
             {
                 store.Close();
+            }
+        }
+
+        // New method to execute SQL Query
+        public async Task<object> ExecuteSqlQuery(dynamic input)
+        {
+            string connectionString = "Server=ORDW;Database=ORDW;Integrated Security=True;Encrypt=False;";
+            string query = "SELECT * FROM ORDW.public_v2.dim_Site s";
+
+            List<Dictionary<string, object>> results = new List<Dictionary<string, object>>();
+
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    await connection.OpenAsync();
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        using (SqlDataReader reader = await command.ExecuteReaderAsync())
+                        {
+                            while (await reader.ReadAsync())
+                            {
+                                var row = new Dictionary<string, object>();
+                                for (int i = 0; i < reader.FieldCount; i++)
+                                {
+                                    row[reader.GetName(i)] = reader.GetValue(i);
+                                }
+                                results.Add(row);
+                            }
+                        }
+                    }
+                }
+                return results;
+            }
+            catch (Exception ex)
+            {
+                // Return exception message to JavaScript
+                return new { error = ex.Message, stackTrace = ex.StackTrace };
             }
         }
     }
